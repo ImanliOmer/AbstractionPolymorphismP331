@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\AbstractionPolymorphismP331\AbstractionPolymorphismP331\bin\Debug\net6.0\AbstractionPolymorphismP331.exe
+C:\Users\asus\Desktop\AbstractionPolymorphismP331\AbstractionPolymorphismP331\bin\Debug\net6.0\AbstractionPolymorphismP331.deps.json
+C:\Users\asus\Desktop\AbstractionPolymorphismP331\AbstractionPolymorphismP331\bin\Debug\net6.0\AbstractionPolymorphismP331.runtimeconfig.json
+C:\Users\asus\Desktop\AbstractionPolymorphismP331\AbstractionPolymorphismP331\bin\Debug\net6.0\AbstractionPolymorphismP331.dll
+C:\Users\asus\Desktop\AbstractionPolymorphismP331\AbstractionPolymorphismP331\bin\Debug\net6.0\AbstractionPolymorphismP331.pdb
+C:\Users\asus\Desktop\AbstractionPolymorphismP331\AbstractionPolymorphismP331\obj\Debug\net6.0\AbstractionPolymorphismP331.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\AbstractionPolymorphismP331\AbstractionPolymorphismP331\obj\Debug\net6.0\AbstractionPolymorphismP331.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\AbstractionPolymorphismP331\AbstractionPolymorphismP331\obj\Debug\net6.0\AbstractionPolymorphismP331.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\AbstractionPolymorphismP331\AbstractionPolymorphismP331\obj\Debug\net6.0\AbstractionPolymorphismP331.AssemblyInfo.cs
+C:\Users\asus\Desktop\AbstractionPolymorphismP331\AbstractionPolymorphismP331\obj\Debug\net6.0\AbstractionPolymorphismP331.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\AbstractionPolymorphismP331\AbstractionPolymorphismP331\obj\Debug\net6.0\AbstractionPolymorphismP331.dll
+C:\Users\asus\Desktop\AbstractionPolymorphismP331\AbstractionPolymorphismP331\obj\Debug\net6.0\refint\AbstractionPolymorphismP331.dll
+C:\Users\asus\Desktop\AbstractionPolymorphismP331\AbstractionPolymorphismP331\obj\Debug\net6.0\AbstractionPolymorphismP331.pdb
+C:\Users\asus\Desktop\AbstractionPolymorphismP331\AbstractionPolymorphismP331\obj\Debug\net6.0\AbstractionPolymorphismP331.genruntimeconfig.cache
+C:\Users\asus\Desktop\AbstractionPolymorphismP331\AbstractionPolymorphismP331\obj\Debug\net6.0\ref\AbstractionPolymorphismP331.dll
